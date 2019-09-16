@@ -1,2 +1,2 @@
-# Alpine-Base
-Alpine + Numpy + Pandas + GDAL
+# GeoDjango
+GDAL enabled
